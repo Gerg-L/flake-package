@@ -24,4 +24,6 @@ the flexible type check of `lib.types.package` [here](https://github.com/NixOS/n
 
 because it's funny
 
+### TODO
 
+use a multiarch statically compiled binary instead of a bash script
